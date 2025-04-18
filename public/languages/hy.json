@@ -1,0 +1,122 @@
+{
+	"common": {
+		"fields": {
+			"username": "Օգտանուն",
+			"password": "Գաղտնաբառ",
+			"email": "Էլ. փոստ",
+			"firstName": "Անուն",
+			"lastName": "Ազգանուն",
+			"repeatPassword": "Կրկնել գաղտնաբառը",
+			"searchAddress": "Որոնել հասցեն...",
+			"title": "Մուտքագրեք վերնագիր",
+			"description": "Մուտքագրեք նկարագրություն",
+			"price": "Մուտքագրեք գին",
+			"currency": "Ընտրեք արժույթ",
+			"address": "Մուտքագրեք հասցե",
+			"phoneNumbers": "Մուտքագրեք հեռախոսահամարներ"
+		},
+		"actions": {
+			"login": "Մուտք",
+			"signUp": "Գրանցվել",
+			"goBack": "Վերադառնալ",
+			"useMyLocation": "Օգտագործել իմ հասցեն",
+			"createAdvertisement": "Ստեղծել հայտարարություն",
+			"back": "Հետ",
+			"next": "Հաջորդ",
+			"publish": "Հրապարակել",
+			"preview": "Նախադիտում",
+			"images": "Նկարներ",
+			"location": "Տեղադրություն",
+			"title": "Վերնագիր",
+			"description": "Նկարագրություն",
+			"price": "Գին",
+			"currency": "Արժույթ",
+			"address": "Հասցե",
+			"phoneNumbers": "Հեռախոսահամարներ"
+		},
+		"select": {
+			"placeholder": "Ընտրեք"
+		}
+	},
+	"header": {
+		"postAdBtn": "Տեղադրել հայտարարություն",
+		"categoriesBtn": "Բաժիններ",
+		"profile": {
+			"title": "Պրոֆիլ",
+			"logout": "Դուրս գալ"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 AdSpot. Բոլոր իրավունքները պաշտպանված են",
+		"links": {
+			"help": "Օգնություն",
+			"contact": "Կապ մեզ հետ",
+			"term": "Օգտագործման պայմաններ"
+		}
+	},
+	"signInPage": {
+		"title": "Մուտք",
+		"submitBtn": "{login}",
+		"linkToRegister": "Չունե՞ք հաշիվ: ",
+		"highlight": "Գրանցվեք"
+	},
+	"signUpPage": {
+		"title": "Գրանցում",
+		"submitBtn": "{signUp}",
+		"linkToLogin": "Արդեն ունե՞ք հաշիվ: ",
+		"highlight": "Մուտք գործեք"
+	},
+	"categoriesPage": {
+		"title": "Բաժիններ",
+		"desc": "Գտեք այն, ինչ ձեզ անհրաժեշտ է ըստ բաժինների",
+		"categoriesCard": {
+			"listings": " հայտարարություն"
+		}
+	},
+	"search": {
+		"placeholder": "Որոնել..."
+	},
+	"notFound": {
+		"title": "404 - Որտե՞ղ եմ ես",
+		"desc": "Կարծես Ջոնը չի կարողանում գտնել այս էջը...",
+		"goBackBtn": "{goBack}"
+	},
+	"errors": {
+		"invalidCredentials": "Սխալ մուտքագրված տվյալներ",
+		"userExists": "Օգտատերը արդեն գոյություն ունի",
+		"passwordMismatch": "Գաղտնաբառերը չեն համընկնում",
+		"formDataLoadError": "Սխալ ձևաթղթի տվյալները բեռնելիս"
+	},
+	"toaster": {
+		"accountCreated": "Հաշիվը հաջողությամբ ստեղծված է",
+		"loginSuccess": "Հաջողությամբ մուտք եք գործել",
+		"logoutSuccess": "Հաջողությամբ դուրս եք եկել",
+		"profileUpdated": "Պրոֆիլը հաջողությամբ թարմացված է",
+		"profileUpdateError": "Սխալ պրոֆիլը թարմացնելիս"
+	},
+	"profilePage": {
+		"title": "Օգտվողի պրոֆիլ",
+		"accountManagement": "Հաշվի կառավարում",
+		"loading": "Բեռնվում է...",
+		"error": "Սխալ: {message}",
+		"memberSince": "Գրանցվել է {date}-ին",
+		"noDate": "ամսաթիվը նշված չէ",
+		"sidebar": {
+			"home": "Գլխավոր",
+			"settings": "Կարգավորումներ",
+			"logout": "Դուրս գալ"
+		},
+		"tabs": {
+			"myAds": "Իմ հայտարարությունները",
+			"myAdsPlaceholder": "Ձեր հայտարարությունները կհայտնվեն այստեղ:",
+			"favorites": "Նախընտրածներ",
+			"favoritesPlaceholder": "Ձեր նախընտրած հայտարարությունները կհայտնվեն այստեղ:",
+			"personalInfo": "Անձնական տեղեկություն"
+		},
+		"actions": {
+			"createAd": "Ստեղծել հայտարարություն",
+			"saveChanges": "Պահպանել փոփոխությունները",
+			"saving": "Պահպանվում է..."
+		}
+	}
+}

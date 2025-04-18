@@ -1,0 +1,122 @@
+{
+	"common": {
+		"fields": {
+			"username": "Username",
+			"password": "Password",
+			"email": "Email",
+			"firstName": "First Name",
+			"lastName": "Last Name",
+			"repeatPassword": "Repeat Password",
+			"searchAddress": "Search address...",
+			"title": "Enter title",
+			"description": "Enter description",
+			"price": "Enter price",
+			"currency": "Select currency",
+			"address": "Enter address",
+			"phoneNumbers": "Enter phone numbers"
+		},
+		"actions": {
+			"login": "Login",
+			"signUp": "Sign Up",
+			"goBack": "Go Back",
+			"useMyLocation": "Use my location",
+			"createAdvertisement": "Create Advertisement",
+			"back": "Back",
+			"next": "Next",
+			"publish": "Publish",
+			"preview": "Preview",
+			"images": "Images",
+			"location": "Location",
+			"title": "Title",
+			"description": "Description",
+			"price": "Price",
+			"currency": "Currency",
+			"address": "Address",
+			"phoneNumbers": "Phone Numbers"
+		},
+		"select": {
+			"placeholder": "Select"
+		}
+	},
+	"header": {
+		"postAdBtn": "Post Ad",
+		"categoriesBtn": "Categories",
+		"profile": {
+			"title": "Profile",
+			"logout": "Logout"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 AdSpot. All rights reserved",
+		"links": {
+			"help": "Help",
+			"contact": "Contact Us",
+			"term": "Terms of Use"
+		}
+	},
+	"signInPage": {
+		"title": "Sign In",
+		"submitBtn": "{login}",
+		"linkToRegister": "Don't have an account? ",
+		"highlight": "Sign Up"
+	},
+	"signUpPage": {
+		"title": "Sign Up",
+		"submitBtn": "{signUp}",
+		"linkToLogin": "Already have an account? ",
+		"highlight": "Sign In"
+	},
+	"categoriesPage": {
+		"title": "Categories",
+		"desc": "Find what you need by categories",
+		"categoriesCard": {
+			"listings": " listings"
+		}
+	},
+	"search": {
+		"placeholder": "Search..."
+	},
+	"notFound": {
+		"title": "404 - Where am I?",
+		"desc": "Looks like John can't find this page...",
+		"goBackBtn": "{goBack}"
+	},
+	"errors": {
+		"invalidCredentials": "Invalid credentials",
+		"userExists": "User already exists",
+		"passwordMismatch": "Passwords do not match",
+		"formDataLoadError": "Error loading form data"
+	},
+	"toaster": {
+		"accountCreated": "Account successfully created",
+		"loginSuccess": "Successfully logged in",
+		"logoutSuccess": "Successfully logged out",
+		"profileUpdated": "Profile successfully updated",
+		"profileUpdateError": "Error updating profile"
+	},
+	"profilePage": {
+		"title": "User Profile",
+		"accountManagement": "Account Management",
+		"loading": "Loading...",
+		"error": "Error: {message}",
+		"memberSince": "Member since {date}",
+		"noDate": "no date specified",
+		"sidebar": {
+			"home": "Home",
+			"settings": "Settings",
+			"logout": "Logout"
+		},
+		"tabs": {
+			"myAds": "My Ads",
+			"myAdsPlaceholder": "Your ads will appear here.",
+			"favorites": "Favorites",
+			"favoritesPlaceholder": "Your favorite ads will appear here.",
+			"personalInfo": "Personal Information"
+		},
+		"actions": {
+			"createAd": "Create Ad",
+			"saveChanges": "Save Changes",
+			"saving": "Saving..."
+		}
+	}
+}

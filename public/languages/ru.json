@@ -1,0 +1,117 @@
+{
+	"common": {
+		"createAdvertisement": "Создать объявление",
+		"back": "Назад",
+		"next": "Далее",
+		"publish": "Опубликовать",
+		"preview": "Предпросмотр",
+		"images": "Изображения",
+		"location": "Местоположение",
+		"title": "Заголовок",
+		"description": "Описание",
+		"price": "Цена",
+		"currency": "Валюта",
+		"address": "Адрес",
+		"phoneNumbers": "Номера телефонов",
+
+		"fields": {
+			"title": "Введите заголовок",
+			"description": "Введите описание",
+			"price": "Введите цену",
+			"currency": "Выберите валюту",
+			"address": "Введите адрес",
+			"phoneNumbers": "Введите номера телефонов",
+			"searchAddress": "Поиск адреса..."
+		},
+		"actions": {
+			"login": "Войти",
+			"signUp": "Зарегистрироваться",
+			"goBack": "Вернуться на главную",
+			"useMyLocation": "Использовать мое местоположение"
+		},
+		"select": {
+			"placeholder": "Выберите"
+		}
+	},
+	"header": {
+		"postAdBtn": "Разместить объявление",
+		"categoriesBtn": "Категории",
+		"profile": {
+			"title": "Профиль",
+			"logout": "Выйти"
+		}
+	},
+	"footer": {
+		"copyright": "© 2025 AdSpot. Все права защищены",
+		"links": {
+			"help": "Помощь",
+			"contact": "Свяжитесь с нами",
+			"term": "Условия использования"
+		}
+	},
+	"signInPage": {
+		"title": "Вход",
+		"submitBtn": "{login}",
+		"linkToRegister": "Нет аккаунта? ",
+		"highlight": "Зарегистрируйтесь"
+	},
+	"signUpPage": {
+		"title": "Регистрация",
+		"submitBtn": "{signUp}",
+		"linkToLogin": "Уже есть аккаунт? ",
+		"highlight": "Войдите"
+	},
+	"categoriesPage": {
+		"title": "Категории",
+		"desc": "Найдите то, что вам нужно по категориям",
+		"categoriesCard": {
+			"listings": " объявлений"
+		}
+	},
+	"search": {
+		"placeholder": "Поиск..."
+	},
+	"notFound": {
+		"title": "404 - Где я?",
+		"desc": "Похоже, Джон не может найти эту страницу...",
+		"goBackBtn": "{goBack}"
+	},
+	"errors": {
+		"invalidCredentials": "Неверные учетные данные",
+		"userExists": "Пользователь уже существует",
+		"passwordMismatch": "Пароли не совпадают",
+		"formDataLoadError": "Ошибка при загрузке данных формы"
+	},
+	"toaster": {
+		"accountCreated": "Аккаунт успешно создан",
+		"loginSuccess": "Вход успешно выполнен",
+		"logoutSuccess": "Вы успешно вышли",
+		"profileUpdated": "Профиль успешно обновлен",
+		"profileUpdateError": "Ошибка при обновлении профиля"
+	},
+	"profilePage": {
+		"title": "Профиль пользователя",
+		"accountManagement": "Управление аккаунтом",
+		"loading": "Загрузка...",
+		"error": "Ошибка: {message}",
+		"memberSince": "На сайте с {date}",
+		"noDate": "дата не указана",
+		"sidebar": {
+			"home": "На главную",
+			"settings": "Настройки",
+			"logout": "Выйти"
+		},
+		"tabs": {
+			"myAds": "Мои объявления",
+			"myAdsPlaceholder": "Здесь будут ваши объявления.",
+			"favorites": "Избранное",
+			"favoritesPlaceholder": "Здесь будут избранные объявления.",
+			"personalInfo": "Личная информация"
+		},
+		"actions": {
+			"createAd": "Создать объявление",
+			"saveChanges": "Сохранить изменения",
+			"saving": "Сохранение..."
+		}
+	}
+}
